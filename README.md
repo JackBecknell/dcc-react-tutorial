@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was an introductory session with react. Learning the basics of this ultra light weight framework was good fun.
 
 ## Available Scripts
 
