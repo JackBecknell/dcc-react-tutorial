@@ -1,5 +1,5 @@
 
-const displayEntriesx = (props) => {
+const DisplayEntries = (props) => {
     return ( 
         <table>
         <thead>
@@ -23,4 +23,4 @@ const displayEntriesx = (props) => {
       </table>
     );
 } 
-export default displayEntriesx;
+export default DisplayEntries;
